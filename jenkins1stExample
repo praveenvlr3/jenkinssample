@@ -4,7 +4,7 @@ public class Hello {
 		System.out.println("Hello Praveen");
 
 		System.out.println("This is jenkins 1st program");
-		System.out.println("This is commit");
+		
 	
 	}
 
